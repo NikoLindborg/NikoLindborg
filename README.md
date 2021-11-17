@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Niko - Entry-Level software developer. I am enthusiastic about web technologies and mobile development.
+
+ - I am athletic, I like golfing skiing and powerlifting.
+ - I ended up studying ICT on a 5 minute whim, and I regret nothing.
+ - I am the most proficient with Javascript, react(+native) and node, but I am very fast at learning new technologies
+ - I am currently studying IoS development with swiftui
+
+
 
 <!--
 **NikoLindborg/NikoLindborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
