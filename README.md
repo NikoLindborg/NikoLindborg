@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Niko - Entry-Level software developer. I am enthusiastic about web technologies and mobile development.
+I am Niko - Software engineering student. I am enthusiastic about web technologies and mobile development.
 
 Here are some facts about me.
  - I am athletic, I like golfing, skiing and powerlifting.
