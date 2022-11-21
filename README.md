@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I am Niko - Software engineering student. I am enthusiastic about web technologies and mobile development.
+I am Niko an aspiring developer. I am enthusiastic about web technologies and mobile development.
 
 Here are some facts about me.
+ - I'm currently studying Information and Communication Technology at [Metropolia University of Applied Sciences](https://metropolia.fi).
  - I am athletic, I like golfing, skiing and powerlifting.
  - I ended up studying ICT on a 5 minute whim, and I regret nothing.
- - I am the most proficient with Javascript, react(+native) and node, but I am very fast at learning new technologies
+ - I am the most proficient with Javascript, react(+native), vue and node, but I am very fast at learning new technologies
 
 
 
